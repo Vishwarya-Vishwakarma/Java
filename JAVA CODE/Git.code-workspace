@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "..\\..\\HTML LANGUAGE\\HTML CODE"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "HTML CODE"
+  }
+}
